@@ -10,6 +10,6 @@ import (
 var p = fmt.Println
 
 func Dummy(){
-	log.Debug("nosoogja dummy()")
+	log.Debug("nosoogja dummy()-")
 }
 
