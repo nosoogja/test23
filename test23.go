@@ -9,5 +9,5 @@ var p = fmt.Println
 
 func Dummy() {
 	//! 2
-	log.Println("nosoogja dummy()-v2.0.1")
+	log.Println("nosoogja dummy()-v1.0.2")
 }
