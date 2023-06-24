@@ -10,6 +10,6 @@ import (
 var p = fmt.Println
 
 func Dummy(){
-	log.Println("nosoogja dummy()-v1.1")
+	log.Println("nosoogja dummy()-v2.0.1")
 }
 
